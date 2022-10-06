@@ -18,5 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsingh107&theme=midnight-purple" alt="rohitsingh107" /></p>
 
+My Stats
+
 ![](http://127.0.0.1:8000/bar)
+My Stats
 
