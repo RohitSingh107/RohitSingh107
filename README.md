@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsingh107&show_icons=true&locale=en&layout=compact&theme=midnight-purple&langs_count=12&hide=html,qml,cmake,css,objective-c&exclude_repo=dolx-backend,dolx-nextjs" alt="rohitsingh107" /></p>
 
-<p><img align="left" src="http://127.0.0.1:8000/bar" alt="rohitsingh107" /></p>
+<p><img align="center" src="http://127.0.0.1:8000/bar" alt="rohitsingh107" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsingh107&show_icons=true&locale=en&theme=midnight-purple" alt="rohitsingh107" /></p>
 
