@@ -19,8 +19,8 @@
 
 
 
-<p><img align="left" src="https://wj1gtk.deta.dev/bar" alt="rohitsingh107" /></p>
-
+<!-- <p><img align="left" src="https://wj1gtk.deta.dev/bar" alt="rohitsingh107" /></p> -->
+![Image](https://wj1gtk.deta.dev/bar)
 
 
 
