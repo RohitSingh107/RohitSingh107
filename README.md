@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsingh107&show_icons=true&locale=en&theme=midnight-purple" alt="rohitsingh107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsingh107&theme=midnight-purple" alt="rohitsingh107" /></p>
+<p><img align="center" src="https://gitstatsengine-1-s6545422.deta.app/api/top-langs/?username=RohitSingh107&lang_count=13&layout=pie&exclude_repo=dolx-backend,dolx-nextjs&exclude_lang=html,qml,cmake,css,objective-c&sizexy=15,16" alt="rohitsingh107" /></p>
 
